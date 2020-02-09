@@ -1,0 +1,27 @@
+body{
+    color:black;
+    background-color:grey;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: left;}
+h1{
+    color: darkblue;
+    text-align: left;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-large;}
+h2{
+    color:blue;}
+
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;}
+img{
+    display: block;
+    margin-left: left;
+    margin-right: left;
+    width: 40%;}
+ul{
+    text-align: left;
+    list-style: inside;}
+ol{list-style-position: inside;}
+.products{
+    background-color:lightblue;}
